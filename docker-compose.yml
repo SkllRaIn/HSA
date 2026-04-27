@@ -1,0 +1,35 @@
+services:
+  hsa-app:
+    build: .
+    container_name: hsa_core
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./db.json:/app/db.json
+    environment:
+      - NODE_ENV=production
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - DATABASE_URL=postgresql://hsa_user:hsa_pass@hsa-db:5432/hsa_inventory
+    depends_on:
+      hsa-db:
+        condition: service_healthy
+    restart: always
+
+  hsa-db:
+    image: postgres:15-alpine
+    container_name: hsa_postgres
+    environment:
+      - POSTGRES_USER=hsa_user
+      - POSTGRES_PASSWORD=hsa_pass
+      - POSTGRES_DB=hsa_inventory
+    volumes:
+      - hsa_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U hsa_user -d hsa_inventory"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    restart: always
+
+volumes:
+  hsa_db_data:

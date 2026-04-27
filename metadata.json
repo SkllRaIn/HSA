@@ -1,0 +1,12 @@
+{
+  "name": "HelperSystemAdmins (HSA)",
+  "description": "HelperSystemAdmins (HSA) - Professional IT Asset Management System. Developed by Комиссаров Кирилл Александрович.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Inventory Management",
+    "1C:Enterprise Integration",
+    "AI Specs Recognition"
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "computers": [
+    {
+      "id": "pc-hr3nb",
+      "agentId": "TEST_365529874",
+      "name": "TestComputer",
+      "hostname": "TestComputer",
+      "serialNumber": "TEST123",
+      "manufacturer": "Test",
+      "model": "Test Model",
+      "status": "In Use",
+      "assignedTo": "Auto-detected",
+      "location": "Auto-detected",
+      "cpu": "Test CPU",
+      "ram": "8 GB",
+      "lastIp": "192.168.1.100",
+      "os": "Windows Test",
+      "software": [],
+      "createdAt": "2026-04-27T00:38:48.553Z",
+      "lastSeen": "2026-04-27T00:38:48.554Z",
+      "notes": "Automatically registered by HSA Agent",
+      "history": [
+        {
+          "date": "2026-04-27T00:38:48.554Z",
+          "field": "Registration",
+          "oldValue": "-",
+          "newValue": "Agent Auto-reg",
+          "author": "Agent"
+        }
+      ]
+    },
+    {
+      "id": "pc-65tt6",
+      "agentId": "PF27TANZ_LAPTOP-VPO9V634",
+      "name": "LAPTOP-VPO9V634",
+      "hostname": "LAPTOP-VPO9V634",
+      "serialNumber": "PF27TANZ",
+      "manufacturer": "LENOVO",
+      "model": "81LK",
+      "status": "In Use",
+      "assignedTo": "Auto-detected",
+      "location": "Auto-detected",
+      "cpu": "Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz",
+      "cpuCores": 4,
+      "ram": "16 GB",
+      "storage": "C: 476GB",
+      "gpu": "Parsec Virtual Display Adapter | NVIDIA GeForce GTX 1650",
+      "motherboard": "LENOVO LNVNB161216",
+      "lastIp": "169.254.126.54, 169.254.75.170, 169.254.171.174, 169.254.141.157, 192.168.3.4, 169.254.61.228",
+      "os": "Майкрософт Windows 11 Домашняя",
+      "software": [
+        {
+          "publisher": "Igor Pavlov",
+          "name": "7-Zip 19.02 alpha (x64)",
+          "version": "19.02 alpha"
+        },
+        {
+          "publisher": "Adguard Software Limited",
+          "name": "AdGuard",
+          "version": "7.20.4994.0"
+        },
+        {
+          "publisher": "Adobe",
+          "name": "Adobe Flash Player 32 NPAPI",
+          "version": "32.0.0.255"
+        },
+        {
+          "publisher": "Adobe",
+          "name": "Adobe Flash Player 32 PPAPI",
+          "version": "32.0.0.255"
+        },
+        {
+          "publisher": "AIMP DevTeam",
+          "name": "AIMP",
+          "version": "v4.51.2080, 07.07.2018"
+        },
+        {
+          "publisher": "AnyDesk Software GmbH",
+          "name": "AnyDesk",
+          "version": "ad 9.7.0"
+        },
+        {
+          "publisher": "Infinity Ward",
+          "name": "Call of Duty: Modern Warfare 3",
+          "version": ""
+        },
+        {
+          "publisher": "Infinity Ward",
+          "name": "Call of Duty: Modern Warfare 3 - Multiplayer",
+          "version": ""
+        },
+        {
+          "publisher": "Piriform Ltd. (RePack by Dodakaedr)",
+          "name": "CCleaner v6.22.10977",
+          "version": "6.22.10977"
+        },
+        {
+          "publisher": "Valve",
+          "name": "Counter-Strike: Global Offensive",
+          "version": ""
+        },
+        {
+          "publisher": "Epic Games, Inc.",
+          "name": "Epic Games Launcher",
+          "version": "1.1.279.0"
+        },
+        {
+          "publisher": "Epic Games, Inc.",
+          "name": "Epic Games Launcher Prerequisites (x64)",
+          "version": "1.0.0.0"
+        },
+        {
+          "publisher": "Epic Games, Inc.",
+          "name": "Epic Online Services",
+          "version": "1.1.1.0"
+        },
+        {
+          "publisher": "",
+          "name": "Fallout 3 GOTY v.1.7.03",
+          "version": ""
+        },
+        {
+          "publisher": "Bethesda Game Studios",
+          "name": "Fallout Shelter",
+          "version": ""
+        },
+        {
+          "publisher": "Foxit Software Inc.",
+          "name": "Foxit Reader",
+          "version": "9.3.0.10826"
+        },
+        {
+          "publisher": "",
+          "name": "Hiddify, версия 2.5.7+20507",
+          "version": "2.5.7+20507"
+        },
+        {
+          "publisher": "Huawei Technologies Co., Ltd.",
+          "name": "HiSuite",
+          "version": "11.0.0.500"
+        },
+        {
+          "publisher": "",
+          "name": "HSA Inventory Agent version 2.0",
+          "version": "2.0"
+        },
+        {
+          "publisher": "Intel Corporation",
+          "name": "Intel(R) Chipset Device Software",
+          "version": "10.1.18019.8144"
+        },
+        {
+          "publisher": "Oracle Corporation",
+          "name": "Java 8 Update 202 (64-bit)",
+          "version": "8.0.2020.8"
+        },
+        {
+          "publisher": "Oracle Corporation",
+          "name": "Java Auto Updater",
+          "version": "2.8.202.8"
+        },
+        {
+          "publisher": "Лаборатория Касперского",
+          "name": "Kaspersky",
+          "version": "21.24.8.522"
+        },
+        {
+          "publisher": "Kaspersky Lab",
+          "name": "Kaspersky Password Manager",
+          "version": "9.0.2.767"
+        },
+        {
+          "publisher": "Лаборатория Касперского",
+          "name": "Kaspersky Secure Connection",
+          "version": "21.14.5.462"
+        },
+        {
+          "publisher": "KLCP",
+          "name": "K-Lite Mega Codec Pack 15.2.0",
+          "version": "15.2.0"
+        },
+        {
+          "publisher": "Epic Games, Inc.",
+          "name": "Launcher Prerequisites (x64)",
+          "version": "1.0.0.0"
+        },
+        {
+          "publisher": "Lenovo Group Ltd.",
+          "name": "Lenovo Vantage Service",
+          "version": "4.2601.21.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host - 5.0.10 (x86)",
+          "version": "40.40.30412"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host - 6.0.10 (x86)",
+          "version": "48.43.48869"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host - 6.0.36 (x64)",
+          "version": "48.144.23141"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host FX Resolver - 5.0.10 (x86)",
+          "version": "40.40.30412"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host FX Resolver - 6.0.10 (x86)",
+          "version": "48.43.48869"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Host FX Resolver - 6.0.36 (x64)",
+          "version": "48.144.23141"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Runtime - 5.0.10 (x86)",
+          "version": "40.40.30412"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Runtime - 6.0.10 (x86)",
+          "version": "48.43.48869"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft .NET Runtime - 6.0.36 (x64)",
+          "version": "48.144.23141"
+        },
+        {
+          "publisher": "Корпорация Майкрософт",
+          "name": "Microsoft Edge",
+          "version": "147.0.3912.86"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Office Home and Student 2019 - ru-ru",
+          "version": "16.0.19127.20302"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Silverlight",
+          "version": "5.1.50918.0"
+        },
+        {
+          "publisher": "Microsoft",
+          "name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+          "version": "1.25.28902"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Update Health Tools",
+          "version": "5.72.0.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+          "version": "9.0.30729"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+          "version": "10.0.40219"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+          "version": "10.0.40219"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+          "version": "11.0.61030.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+          "version": "11.0.61030.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+          "version": "11.0.61030"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+          "version": "11.0.61030"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+          "version": "11.0.61030"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+          "version": "11.0.61030"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+          "version": "12.0.30501.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+          "version": "12.0.30501.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+          "version": "12.0.21005"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+          "version": "12.0.21005"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+          "version": "12.0.21005"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+          "version": "12.0.21005"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29334",
+          "version": "14.28.29334.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34433",
+          "version": "14.42.34433.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29334",
+          "version": "14.28.29334"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29334",
+          "version": "14.28.29334"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34433",
+          "version": "14.42.34433"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34433",
+          "version": "14.42.34433"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Windows Desktop Runtime - 5.0.10 (x86)",
+          "version": "40.40.30418"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Windows Desktop Runtime - 6.0.10 (x86)",
+          "version": "48.43.48870"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Microsoft Windows Desktop Runtime - 6.0.36 (x64)",
+          "version": "48.144.23186"
+        },
+        {
+          "publisher": "Huawei Technologies Co.,Ltd",
+          "name": "Mobile Broadband HL Service",
+          "version": "22.001.29.00.03"
+        },
+        {
+          "publisher": "Sony Creative Software Inc.",
+          "name": "MSVCRT Redists",
+          "version": "1.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Backend",
+          "version": "39.5.0.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Container",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA FrameView SDK 1.3.8513.32290073",
+          "version": "1.3.8513.32290073"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA GeForce Experience 3.28.0.417",
+          "version": "3.28.0.417"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)",
+          "version": "7.1"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Install Application",
+          "version": "2.1002.422.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA LocalSystem Container",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Message Bus for NvContainer",
+          "version": "1.34"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA NetworkService Container",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA NodeJS",
+          "version": "3.28.0.417"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA NVAPI Monitor plugin for NvContainer",
+          "version": "1.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA NvModuleTracker",
+          "version": "6.14.26040.64835"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Optimus Update 39.5.0.0",
+          "version": "39.5.0.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Session Container",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA ShadowPlay 3.28.0.417",
+          "version": "3.28.0.417"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "Nvidia Share",
+          "version": "3.28.0.417"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA SHIELD Streaming",
+          "version": "7.1.33903191"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA SHIELD Wireless Controller Driver",
+          "version": "3.20.0.85"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Telemetry Client",
+          "version": "18.1.13.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA TelemetryApi helper for NvContainer",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Update Core",
+          "version": "39.5.0.0"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA User Container",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Virtual Audio 4.65.0.3",
+          "version": "4.65.0.3"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Virtual Host Controller",
+          "version": "3.05.0.1"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Watchdog Plugin for NvContainer",
+          "version": "1.40"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Аудиодрайвер HD 1.4.2.6",
+          "version": "1.4.2.6"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Графический драйвер 566.14",
+          "version": "566.14"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "NVIDIA Системное программное обеспечение PhysX 9.23.1019",
+          "version": "9.23.1019"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Office 16 Click-to-Run Extensibility Component",
+          "version": "16.0.19127.20154"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Office 16 Click-to-Run Licensing Component",
+          "version": "16.0.19029.20208"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Office 16 Click-to-Run Localization Component",
+          "version": "16.0.19127.20154"
+        },
+        {
+          "publisher": "Electronic Arts, Inc.",
+          "name": "Origin",
+          "version": "10.5.122.52971"
+        },
+        {
+          "publisher": "dotPDN LLC",
+          "name": "paint.net",
+          "version": "4.1.1"
+        },
+        {
+          "publisher": "Parsec Cloud Inc.",
+          "name": "Parsec",
+          "version": "150-101b"
+        },
+        {
+          "publisher": "Parsec Cloud Inc.",
+          "name": "Parsec Virtual Display Driver",
+          "version": "0.45.0.0"
+        },
+        {
+          "publisher": "Яндекс",
+          "name": "Punto Switcher 4.4.4",
+          "version": "4.4.4.489"
+        },
+        {
+          "publisher": "GOG.com",
+          "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+          "version": "1.3.2"
+        },
+        {
+          "publisher": "SlyVPN",
+          "name": "SlyVPN_V2RayN",
+          "version": "6.21.10.1"
+        },
+        {
+          "publisher": "Valve Corporation",
+          "name": "Steam",
+          "version": "2.10.91.91"
+        },
+        {
+          "publisher": "GlavSoft LLC.",
+          "name": "TightVNC",
+          "version": "2.8.63.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Update for x64-based Windows Systems (KB5001716)",
+          "version": "8.94.0.0"
+        },
+        {
+          "publisher": "DATABRIDGES TECHNOLOGIES LTD",
+          "name": "v2RayTun, версия 3.7.10.0",
+          "version": "3.7.10.0"
+        },
+        {
+          "publisher": "VideoLAN",
+          "name": "VLC media player",
+          "version": "3.0.4"
+        },
+        {
+          "publisher": "",
+          "name": "Warcraft 3 Frozen Throne 1.26a",
+          "version": ""
+        },
+        {
+          "publisher": "win.rar GmbH",
+          "name": "WinRAR 6.11 (64-разрядная)",
+          "version": "6.11.0"
+        },
+        {
+          "publisher": "Wargaming Group Limited",
+          "name": "World of Tanks Blitz",
+          "version": ""
+        },
+        {
+          "publisher": "Yandex",
+          "name": "Yandex (All Users)",
+          "version": "26.3.5.782"
+        },
+        {
+          "publisher": "Яндекс",
+          "name": "Голосовой помощник Алиса",
+          "version": "4.6.0.1790"
+        },
+        {
+          "publisher": "NVIDIA Corporation",
+          "name": "Обновления NVIDIA 39.5.0.0",
+          "version": "39.5.0.0"
+        },
+        {
+          "publisher": "Microsoft Corporation",
+          "name": "Проверка работоспособности ПК Windows",
+          "version": "3.6.2204.08001"
+        },
+        {
+          "publisher": "Intel(R) Corporation",
+          "name": "Программное обеспечение Intel® Chipset Device",
+          "version": "10.1.18019.8144"
+        },
+        {
+          "publisher": "Корпорация Майкрософт",
+          "name": "Среда выполнения Microsoft Edge WebView2 Runtime",
+          "version": "147.0.3912.86"
+        }
+      ],
+      "createdAt": "2026-04-27T00:40:41.392Z",
+      "lastSeen": "2026-04-27T00:40:41.392Z",
+      "notes": "Automatically registered by HSA Agent",
+      "history": [
+        {
+          "date": "2026-04-27T00:40:41.392Z",
+          "field": "Registration",
+          "oldValue": "-",
+          "newValue": "Agent Auto-reg",
+          "author": "Agent"
+        }
+      ]
+    },
+    {
+      "id": "pc-sxmlw",
+      "agentId": "DESKTOP-N9JG09F_DESKTOP-N9JG09F",
+      "name": "DESKTOP-N9JG09F",
+      "hostname": "DESKTOP-N9JG09F",
+      "serialNumber": "DESKTOP-N9JG09F",
+      "manufacturer": "Micro-Star International Co., Ltd",
+      "model": "MS-7B86",
+      "status": "In Use",
+      "assignedTo": "Auto-detected",
+      "location": "Auto-detected",
+      "cpu": "AMD Ryzen 3 3200G with Radeon Vega Graphics    ",
+      "cpuCores": 4,
+      "ram": "14 GB",
+      "lastIp": "172.24.160.1, 26.133.1.114, 192.168.3.141",
+      "os": "Майкрософт Windows 10 Pro",
+      "software": [
+        {
+          "version": "26.00",
+          "name": "7-Zip 26.00 (x64)"
+        },
+        {
+          "version": "2025.3",
+          "name": "Android Studio"
+        },
+        {
+          "version": "ad 7.0.15",
+          "name": "AnyDesk"
+        },
+        {
+          "version": "",
+          "name": "Assassins Creed Valhalla"
+        },
+        {
+          "version": "7.6.5",
+          "name": "Cheat Engine"
+        },
+        {
+          "version": "4.70.0",
+          "name": "Docker Desktop"
+        },
+        {
+          "version": "",
+          "name": "Dota 2"
+        },
+        {
+          "version": "",
+          "name": "FIFA 19 v.1.0-u7"
+        },
+        {
+          "version": "",
+          "name": "FIFA 23"
+        },
+        {
+          "version": "",
+          "name": "Ghost of Tsushima DIRECTORS CUT"
+        },
+        {
+          "version": "147.0.7727.102",
+          "name": "Google Chrome"
+        },
+        {
+          "version": "1.2.128",
+          "name": "HidHide"
+        },
+        {
+          "version": "3.0",
+          "name": "HSA Inventory Agent, версия 3.0"
+        },
+        {
+          "version": "6.7.1",
+          "name": "Inno Setup, версия 6.7.1"
+        },
+        {
+          "version": "8.0.4810.10",
+          "name": "Java 8 Update 481 (64-bit)"
+        },
+        {
+          "version": "64.100.48707",
+          "name": "Microsoft .NET Host - 8.0.25 (x64)"
+        },
+        {
+          "version": "64.100.48707",
+          "name": "Microsoft .NET Host FX Resolver - 8.0.25 (x64)"
+        },
+        {
+          "version": "64.100.48707",
+          "name": "Microsoft .NET Runtime - 8.0.25 (x64)"
+        },
+        {
+          "version": "147.0.3912.86",
+          "name": "Microsoft Edge"
+        },
+        {
+          "version": "16.0.13530.20528",
+          "name": "Microsoft Office профессиональный плюс 2019 - ru-ru"
+        },
+        {
+          "version": "3.74.0.0",
+          "name": "Microsoft Update Health Tools"
+        },
+        {
+          "version": "10.0.40219",
+          "name": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219"
+        },
+        {
+          "version": "11.0.61030",
+          "name": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030"
+        },
+        {
+          "version": "11.0.61030",
+          "name": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030"
+        },
+        {
+          "version": "12.0.30501.0",
+          "name": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501"
+        },
+        {
+          "version": "12.0.21005",
+          "name": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005"
+        },
+        {
+          "version": "12.0.21005",
+          "name": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005"
+        },
+        {
+          "version": "14.44.35211.0",
+          "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211"
+        },
+        {
+          "version": "14.44.35211",
+          "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211"
+        },
+        {
+          "version": "14.44.35211",
+          "name": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211"
+        },
+        {
+          "version": "64.100.48707",
+          "name": "Microsoft Windows Desktop Runtime - 8.0.25 (x64)"
+        },
+        {
+          "version": "13.6",
+          "name": "MiniTool Partition Wizard 13.6 DEMO"
+        },
+        {
+          "version": "2.1002.418.0",
+          "name": "NVIDIA Install Application"
+        },
+        {
+          "version": "560.94",
+          "name": "NVIDIA Графический драйвер 560.94"
+        },
+        {
+          "version": "16.0.13530.20528",
+          "name": "Office 16 Click-to-Run Extensibility Component"
+        },
+        {
+          "version": "16.0.13530.20528",
+          "name": "Office 16 Click-to-Run Licensing Component"
+        },
+        {
+          "version": "16.0.13530.20528",
+          "name": "Office 16 Click-to-Run Localization Component"
+        },
+        {
+          "version": "5.1.4",
+          "name": "qBittorrent"
+        },
+        {
+          "version": "2.10.91.91",
+          "name": "Steam"
+        },
+        {
+          "version": "",
+          "name": "The Witcher 3 Wild Hunt - GOTY"
+        },
+        {
+          "version": "2.9343",
+          "name": "TLauncher"
+        },
+        {
+          "version": "1.0",
+          "name": "Truck Mechanic Dangerous Paths, версия 1.0"
+        },
+        {
+          "version": "8.94.0.0",
+          "name": "Update for x64-based Windows Systems (KB5001716)"
+        },
+        {
+          "version": "6.1",
+          "name": "USB Disk Storage Format Tool 6.1"
+        },
+        {
+          "version": "2.8.1",
+          "name": "uTorrentClients 2.8.1"
+        },
+        {
+          "version": "1.22.0",
+          "name": "ViGEm Bus Driver"
+        },
+        {
+          "version": "2.6.3.0",
+          "name": "Windows Subsystem for Linux"
+        },
+        {
+          "version": "0.5.3",
+          "name": "WireGuard"
+        },
+        {
+          "version": "147.0.3912.86",
+          "name": "Среда выполнения Microsoft Edge WebView2 Runtime"
+        },
+        {
+          "version": "26.3.5.782",
+          "name": "Яндекс Браузер с Алисой AI (All Users)"
+        }
+      ],
+      "createdAt": "2026-04-27T00:49:02.204Z",
+      "lastSeen": "2026-04-27T00:49:02.204Z",
+      "notes": "Automatically registered by HSA Agent",
+      "history": [
+        {
+          "date": "2026-04-27T00:49:02.204Z",
+          "field": "Registration",
+          "oldValue": "-",
+          "newValue": "Agent Auto-reg",
+          "author": "Agent"
+        }
+      ]
+    }
+  ],
+  "syncLogs": [],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123",
+      "role": "superadmin",
+      "name": "Главный Администратор"
+    }
+  ],
+  "settings": {
+    "companyName": "ТехноПром Групп",
+    "oneCBaseUrl": "http://1c-server.local/Base1C/hs/InvAPI",
+    "oneCApiKey": "SECRET_KEY_1C_2024",
+    "syncInterval": 60,
+    "vncPassword": "vncpassword"
+  }
+}
